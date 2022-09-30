@@ -27,7 +27,7 @@ public class EatingCucumber {
     }
     @When("he eats {int} cucumbers")
     public void he_eats_cucumbers(Integer count) {
-        System.out.println("It is from int cucumber count");
+        System.out.println("It is from int cucumber count-AYHAN");
     }
 
 }
